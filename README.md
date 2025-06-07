@@ -1,7 +1,5 @@
 # Credit-Risk-Model
 
-\`\`\`html
-
 **Session Overview:** The session focuses on machine learning concepts, particularly in model building and evaluation metrics.
 
 - **Model Building:**
@@ -31,5 +29,3 @@
 - Understanding of various statistical tests and their relevance in feature selection.
 - Importance of choosing the right evaluation metrics based on the nature of the dataset.
 - Hands-on experience with model building and evaluation using Python libraries.
-
-\`\`\`
